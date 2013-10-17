@@ -1,0 +1,15 @@
+wsaprs
+
+Transmit APRS weather reports using data from a Watson Weather Station W-8681.
+
+Should also work with other similar weather stations made by Fine Offset
+Electronics Co Ltd.
+
+Based on the beacon program from ax25-tools
+
+git://git.linux-ax25.org/pub/scm/ax25-tools.git
+
+and wsrdr
+
+http://sourceforge.net/projects/wsrdr/
+
