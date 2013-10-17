@@ -1,0 +1,6 @@
+[submodule "wsrdr"]
+	path = wsrdr
+	url = git@github.com:dbrooke/wsrdr.git
+[submodule "ax25-tools"]
+	path = ax25-tools
+	url = git@github.com:dbrooke/ax25-tools.git
